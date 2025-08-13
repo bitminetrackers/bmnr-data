@@ -1,26 +1,26 @@
 {
   "BMNR": {
-    "price": 39.21,
-    "day_gain": 4.21,
-    "day_gain_pct": 12.0286,
-    "market_cap": 16796967694,
-    "market_cap_day_gain": 1803499624,
-    "market_cap_day_gain_pct": 10.737054789016396,
+    "price": 38.91,
+    "day_gain": 3.91,
+    "day_gain_pct": 11.1714,
+    "market_cap": 16668452645,
+    "market_cap_day_gain": 1674984575,
+    "market_cap_day_gain_pct": 10.048830634798245,
     "basic_shares_outstanding": 302378674,
     "assumed_diluted_shares_outstanding": 428384802
   },
   "ETH": {
-    "price": 3316.42,
-    "day_gain": -4.69,
-    "day_gain_pct": -0.1413,
-    "market_cap": 400276160512,
-    "market_cap_day_gain": -566495490,
-    "market_cap_day_gain_pct": -0.1415261626903048,
+    "price": 3315.28,
+    "day_gain": -5.84,
+    "day_gain_pct": -0.1757,
+    "market_cap": 400138240000,
+    "market_cap_day_gain": -704458136,
+    "market_cap_day_gain_pct": -0.1760536900800599,
     "circulating_supply": 120695216
   },
   "BMNR_ETH": {
     "holdings": 3864951,
-    "value": 12817806155.02002,
+    "value": 12813388259.370117,
     "ownership_pct": 3.2022404268285163,
     "goal_progress_pct": 64.04480853657033,
     "average_cost_per_eth": 3964.346795341002,
@@ -223,99 +223,99 @@
     "nav_diluted_history": [
       {
         "date": "2025-07-13",
-        "nav_diluted": 1.4909136908514329
+        "nav_diluted": 1.4903998196764805
       },
       {
         "date": "2025-07-20",
-        "nav_diluted": 2.748049248732053
+        "nav_diluted": 2.7471020823702856
       },
       {
         "date": "2025-07-27",
-        "nav_diluted": 5.1802631247633695
+        "nav_diluted": 5.178477650584134
       },
       {
         "date": "2025-08-03",
-        "nav_diluted": 5.7122276518296085
+        "nav_diluted": 5.710258826167162
       },
       {
         "date": "2025-08-06",
-        "nav_diluted": 7.6146796956905325
+        "nav_diluted": 7.612055154494002
       },
       {
         "date": "2025-08-11",
-        "nav_diluted": 10.51310628517514
+        "nav_diluted": 10.509482747265258
       },
       {
         "date": "2025-08-17",
-        "nav_diluted": 13.92334411440091
+        "nav_diluted": 13.91854517450034
       },
       {
         "date": "2025-08-25",
-        "nav_diluted": 15.664716096666812
+        "nav_diluted": 15.65931696047584
       },
       {
         "date": "2025-08-28",
-        "nav_diluted": 16.38485109060314
+        "nav_diluted": 16.37920374647248
       },
       {
         "date": "2025-09-02",
-        "nav_diluted": 17.063792948043275
+        "nav_diluted": 17.05791159395473
       },
       {
         "date": "2025-09-08",
-        "nav_diluted": 18.914321715127002
+        "nav_diluted": 18.907802541828897
       },
       {
         "date": "2025-09-15",
-        "nav_diluted": 19.660879908000645
+        "nav_diluted": 19.65410341951515
       },
       {
         "date": "2025-09-22",
-        "nav_diluted": 22.082281385435333
+        "nav_diluted": 22.07467031582695
       },
       {
         "date": "2025-09-29",
-        "nav_diluted": 24.22872987302872
+        "nav_diluted": 24.22037898996697
       },
       {
         "date": "2025-10-06",
-        "nav_diluted": 25.867050465457808
+        "nav_diluted": 25.858134904686715
       },
       {
         "date": "2025-10-13",
-        "nav_diluted": 27.71363083339213
+        "nav_diluted": 27.70407881430079
       },
       {
         "date": "2025-10-20",
-        "nav_diluted": 29.57656232650766
+        "nav_diluted": 29.566368213376204
       },
       {
         "date": "2025-10-27",
-        "nav_diluted": 30.280830605343617
+        "nav_diluted": 30.270393753031385
       },
       {
         "date": "2025-11-03",
-        "nav_diluted": 31.03352161263681
+        "nav_diluted": 31.02282533134846
       },
       {
         "date": "2025-11-10",
-        "nav_diluted": 32.04165210934545
+        "nav_diluted": 32.030608357102864
       },
       {
         "date": "2025-11-17",
-        "nav_diluted": 32.53662781382459
+        "nav_diluted": 32.52541345898549
       },
       {
         "date": "2025-11-24",
-        "nav_diluted": 33.17478782634661
+        "nav_diluted": 33.16335351777212
       },
       {
         "date": "2025-12-01",
-        "nav_diluted": 34.05950343019791
+        "nav_diluted": 34.04776418791087
       },
       {
         "date": "2025-12-08",
-        "nav_diluted": 35.32492879832971
+        "nav_diluted": 35.31275340361833
       }
     ]
   },
@@ -325,24 +325,24 @@
     "value": 39178080.362956524
   },
   "BMNR_NAV": {
-    "eth_value": 12817806155.02002,
-    "btc_value": 17679576.0,
+    "eth_value": 12813388259.370117,
+    "btc_value": 17675904.0,
     "cash_value": 1000000000.0,
     "octo_value": 39178080.362956524,
-    "total_value": 13874663811.382977,
-    "nav_per_basic_share_total": 45.88506070167824,
-    "nav_per_diluted_share_total": 32.38831944225458
+    "total_value": 13870242243.733074,
+    "nav_per_basic_share_total": 45.87043808431105,
+    "nav_per_diluted_share_total": 32.37799795645662
   },
   "derived": {
     "eth_per_basic_share": 0.012781824025063355,
     "eth_per_diluted_share": 0.009022147802526383,
-    "eth_value_per_basic_share": 42.389914557995645,
-    "eth_value_per_diluted_share": 29.921243926436073,
-    "": 0.011822984630812198,
-    "nav_basic": 45.88506070167824,
-    "nav_diluted": 32.38831944225458,
+    "eth_value_per_basic_share": 42.375304084342,
+    "eth_value_per_diluted_share": 29.91093101237078,
+    "": 0.011736571183662286,
+    "nav_basic": 45.87043808431105,
+    "nav_diluted": 32.37799795645662,
     "ytd_yield_pct": 340.75,
     "qtd_yield_pct": 31.62
   },
-  "timestamp_iso": "2025-12-10T12:25:42.061820+00:00"
+  "timestamp_iso": "2025-12-10T12:26:41.557965+00:00"
 }
