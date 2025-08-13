@@ -10,17 +10,17 @@
     "assumed_diluted_shares_outstanding": 224524800
   },
   "ETH": {
-    "price": 4378.21,
-    "day_gain": -401.43,
-    "day_gain_pct": -8.3988,
-    "market_cap": 528480993280,
-    "market_cap_day_gain": -48455965890,
-    "market_cap_day_gain_pct": -9.168913642370963,
+    "price": 4392.74,
+    "day_gain": -386.91,
+    "day_gain_pct": -8.0949,
+    "market_cap": 530234605568,
+    "market_cap_day_gain": -46702295814,
+    "market_cap_day_gain_pct": -8.807855112355668,
     "circulating_supply": 120707008
   },
   "BMNR_ETH": {
     "holdings": 1713899,
-    "value": 7503814695.029297,
+    "value": 7528714768.68457,
     "ownership_pct": 1.4198835911830405,
     "goal_progress_pct": 28.397671823660808,
     "average_cost_per_eth": 3915.498046851069,
@@ -95,48 +95,48 @@
     "nav_diluted_history": [
       {
         "date": "2025-07-13",
-        "nav_diluted": 3.1808834541102895
+        "nav_diluted": 3.191438649769459
       },
       {
         "date": "2025-07-20",
-        "nav_diluted": 5.862998267445011
+        "nav_diluted": 5.882453583791886
       },
       {
         "date": "2025-07-27",
-        "nav_diluted": 11.052157722213481
+        "nav_diluted": 11.088832340726531
       },
       {
         "date": "2025-08-03",
-        "nav_diluted": 12.187110853774213
+        "nav_diluted": 12.22755161227335
       },
       {
         "date": "2025-08-06",
-        "nav_diluted": 16.246016654752964
+        "nav_diluted": 16.299926169812835
       },
       {
         "date": "2025-08-11",
-        "nav_diluted": 22.42984690463133
+        "nav_diluted": 22.50427635987518
       },
       {
         "date": "2025-08-17",
-        "nav_diluted": 29.70563298945185
+        "nav_diluted": 29.804205845988918
       },
       {
         "date": "2025-08-25",
-        "nav_diluted": 33.42087241600615
+        "nav_diluted": 33.53177363340072
       }
     ]
   },
   "derived": {
     "eth_per_basic_share": 0.009160140884214126,
     "eth_per_diluted_share": 0.007633450736845106,
-    "eth_value_per_basic_share": 40.10504689920737,
-    "eth_value_per_diluted_share": 33.42087241600615,
-    "": 0.011328822904050373,
-    "nav_basic": 1.2367520376868422,
-    "nav_diluted": 1.4841024452242106,
+    "eth_value_per_basic_share": 40.238128360080864,
+    "eth_value_per_diluted_share": 33.531773633400725,
+    "": 0.011291354553421427,
+    "nav_basic": 1.2326616693068628,
+    "nav_diluted": 1.4791940031682351,
     "ytd_yield_pct": 215.87,
     "qtd_yield_pct": 215.87
   },
-  "timestamp_iso": "2025-08-26T01:25:38.672246+00:00"
+  "timestamp_iso": "2025-08-26T01:44:14.041454+00:00"
 }
