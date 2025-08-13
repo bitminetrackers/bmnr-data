@@ -1,12 +1,40 @@
 {
-  "symbol": "BMNR",
-  "timestamp_iso": "2025-08-13T21:47:25.458008+00:00",
-  "price": 61.63,
-  "day_gain": -5.61,
-  "day_gain_pct": -8.3432,
-  "market_cap": null,
-  "market_cap_day_gain": null,
-  "market_cap_day_gain_pct": -8.3432,
-  "basic_shares_outstanding": 112311000,
-  "assumed_diluted_shares_outstanding": 134773200
+  "BMNR": {
+    "price": 57.81,
+    "day_gain": -3.19,
+    "day_gain_pct": -5.2295,
+    "market_cap": 10029861345,
+    "market_cap_day_gain": -553455166,
+    "market_cap_day_gain_pct": -5.5180739507520675,
+    "basic_shares_outstanding": 173496992,
+    "assumed_diluted_shares_outstanding": 208196390
+  },
+  "ETH": {
+    "price": 4421.89,
+    "day_gain": -18.1,
+    "day_gain_pct": -0.4076,
+    "market_cap": 533757263872,
+    "market_cap_day_gain": -2184530298,
+    "market_cap_day_gain_pct": -0.40927411126626295,
+    "circulating_supply": 120707912
+  },
+  "BMNR_ETH": {
+    "holdings": 1285235,
+    "value": 5683169224.978027,
+    "ownership_pct": 1.064747934667282,
+    "goal_progress_pct": 21.294958693345638,
+    "average_cost_per_eth": 4417.574379782685
+  },
+  "derived": {
+    "eth_per_basic_share": 0.007407822955224492,
+    "eth_per_diluted_share": 0.006173185807880723,
+    "eth_value_per_basic_share": 32.756586494468024,
+    "eth_value_per_diluted_share": 27.297155464501703,
+    "bmnr_share_cost_eth": 0.013073592246461558,
+    "nav_basic": 1.7648359478193507,
+    "nav_diluted": 2.117803133314364,
+    "ytd_yield_pct": 155.44,
+    "qtd_yield_pct": 155.44
+  },
+  "timestamp_iso": "2025-08-16T21:44:08.512797+00:00"
 }
