@@ -10,17 +10,17 @@
     "assumed_diluted_shares_outstanding": 280818295
   },
   "ETH": {
-    "price": 4475.6,
-    "day_gain": -39.27,
-    "day_gain_pct": -0.8697,
-    "market_cap": 540219965440,
-    "market_cap_day_gain": -4739606346,
-    "market_cap_day_gain_pct": -0.8773474972653585,
+    "price": 4474.54,
+    "day_gain": -40.33,
+    "day_gain_pct": -0.8932,
+    "market_cap": 540091908096,
+    "market_cap_day_gain": -4867617798,
+    "market_cap_day_gain_pct": -0.9012573093613481,
     "circulating_supply": 120703248
   },
   "BMNR_ETH": {
     "holdings": 2650900,
-    "value": 11864378653.955078,
+    "value": 11861567250.24414,
     "ownership_pct": 2.1962126487267355,
     "goal_progress_pct": 43.92425297453471,
     "average_cost_per_eth": 4070.0381202610433,
@@ -143,59 +143,59 @@
     "nav_diluted_history": [
       {
         "date": "2025-07-13",
-        "nav_diluted": 2.599809075577498
+        "nav_diluted": 2.5991930203169584
       },
       {
         "date": "2025-07-20",
-        "nav_diluted": 4.79196309003473
+        "nav_diluted": 4.790827578162854
       },
       {
         "date": "2025-07-27",
-        "nav_diluted": 9.033182248093858
+        "nav_diluted": 9.03104172958593
       },
       {
         "date": "2025-08-03",
-        "nav_diluted": 9.960805499418546
+        "nav_diluted": 9.958445169698654
       },
       {
         "date": "2025-08-06",
-        "nav_diluted": 13.27824239722852
+        "nav_diluted": 13.275095961916643
       },
       {
         "date": "2025-08-11",
-        "nav_diluted": 18.332428832349326
+        "nav_diluted": 18.32808474826764
       },
       {
         "date": "2025-08-17",
-        "nav_diluted": 24.279095841112046
+        "nav_diluted": 24.273342624518342
       },
       {
         "date": "2025-08-25",
-        "nav_diluted": 27.315646321016647
+        "nav_diluted": 27.309173558162946
       },
       {
         "date": "2025-08-28",
-        "nav_diluted": 28.571395399159073
+        "nav_diluted": 28.564625071829283
       },
       {
         "date": "2025-09-02",
-        "nav_diluted": 29.755313162872337
+        "nav_diluted": 29.74826229233911
       },
       {
         "date": "2025-09-08",
-        "nav_diluted": 32.982207860266946
+        "nav_diluted": 32.97439233917833
       },
       {
         "date": "2025-09-12",
-        "nav_diluted": 37.20457269283912
+        "nav_diluted": 37.195756632868076
       },
       {
         "date": "2025-09-12",
-        "nav_diluted": 40.94748302530648
+        "nav_diluted": 40.93778003882159
       },
       {
         "date": "2025-09-15",
-        "nav_diluted": 42.249308058633
+        "nav_diluted": 42.23929658943389
       }
     ]
   },
@@ -205,24 +205,24 @@
     "value": 112876708.06463242
   },
   "BMNR_NAV": {
-    "eth_value": 11864378653.955078,
-    "btc_value": 23469879.0,
+    "eth_value": 11861567250.24414,
+    "btc_value": 23467237.5,
     "cash_value": 436000000.0,
     "octo_value": 112876708.06463242,
-    "total_value": 12436725241.01971,
-    "nav_per_basic_share_total": 53.14493590677079,
-    "nav_per_diluted_share_total": 44.28744658897566
+    "total_value": 12433911195.808773,
+    "nav_per_basic_share_total": 53.13291085600576,
+    "nav_per_diluted_share_total": 44.27742571333813
   },
   "derived": {
     "eth_per_basic_share": 0.011327894430809787,
     "eth_per_diluted_share": 0.009439912025674823,
-    "eth_value_per_basic_share": 50.699169670359595,
-    "eth_value_per_diluted_share": 42.249308058633,
-    "": 0.012657509796763857,
-    "nav_basic": 53.14493590677079,
-    "nav_diluted": 44.28744658897566,
+    "eth_value_per_basic_share": 50.687155907320665,
+    "eth_value_per_diluted_share": 42.23929658943389,
+    "": 0.012660509853102376,
+    "nav_basic": 53.13291085600576,
+    "nav_diluted": 44.27742571333813,
     "ytd_yield_pct": 290.62,
     "qtd_yield_pct": 16.64
   },
-  "timestamp_iso": "2025-10-05T00:55:43.477649+00:00"
+  "timestamp_iso": "2025-10-05T01:04:13.560779+00:00"
 }
