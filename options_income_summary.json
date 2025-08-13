@@ -1,0 +1,19 @@
+{
+  "paths": 2000,
+  "weeks": 52,
+  "contracts": 10,
+  "shares": 1000,
+  "initial_bmnr": 52.060001373291016,
+  "strike_moneyness": 1.05,
+  "risk_free_annual": 0.03,
+  "eth_sigma_annual": 0.5928867218638152,
+  "beta_bmnr_to_eth": 0.507913077946153,
+  "bmnr_idio_sigma_annual": 5.336951885867944,
+  "bmnr_pricing_vol_annual": 5.345440830462671,
+  "mean_total_pnl": 236770.26255993108,
+  "median_total_pnl": -37907.949917307174,
+  "p5_total_pnl": -92748.54853362998,
+  "p95_total_pnl": 738184.0148296823,
+  "avg_assignments": 0.0,
+  "avg_premium_collected": 339276.11803313205
+}
