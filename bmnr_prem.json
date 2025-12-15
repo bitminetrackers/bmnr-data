@@ -1,125 +1,177 @@
 {
   "BMNR": {
-    "price": 38.91,
-    "day_gain": 3.91,
-    "day_gain_pct": 11.1714,
-    "market_cap": 16668452645,
-    "market_cap_day_gain": 1674984575,
-    "market_cap_day_gain_pct": 10.048830634798245,
+    "price": 20.66,
+    "day_gain": 0.12,
+    "day_gain_pct": 0.5745,
+    "market_cap": 10756739466,
+    "market_cap_day_gain": 61442802,
+    "market_cap_day_gain_pct": 0.5712028486429349,
     "basic_shares_outstanding": 302378674,
-    "assumed_diluted_shares_outstanding": 428384802
+    "assumed_diluted_shares_outstanding": 520705754
   },
   "ETH": {
-    "price": 3315.28,
-    "day_gain": -5.84,
-    "day_gain_pct": -0.1757,
-    "market_cap": 400138240000,
-    "market_cap_day_gain": -704458136,
-    "market_cap_day_gain_pct": -0.1760536900800599,
-    "circulating_supply": 120695216
+    "price": 2179.56,
+    "day_gain": 82.48,
+    "day_gain_pct": 3.933,
+    "market_cap": 263055835136,
+    "market_cap_day_gain": 9954458964,
+    "market_cap_day_gain_pct": 3.7841620046578677,
+    "circulating_supply": 120691896
   },
   "BMNR_ETH": {
-    "holdings": 3864951,
-    "value": 12813388259.370117,
-    "ownership_pct": 3.2022404268285163,
-    "goal_progress_pct": 64.04480853657033,
-    "average_cost_per_eth": 3964.346795341002,
+    "holdings": 4534564,
+    "value": 9883376718.96289,
+    "ownership_pct": 3.7571404131392554,
+    "goal_progress_pct": 75.14280826278511,
+    "average_cost_per_eth": 3775.965550160942,
     "ownership_trend": [
       {
         "date": "2025-07-13",
-        "ownership_pct": 0.13515282991829602
+        "ownership_pct": 0.1351565477105439
       },
       {
         "date": "2025-07-20",
-        "ownership_pct": 0.2491134362773749
+        "ownership_pct": 0.24912028890489882
       },
       {
         "date": "2025-07-27",
-        "ownership_pct": 0.46959607744519055
+        "ownership_pct": 0.46960899512258886
       },
       {
         "date": "2025-08-03",
-        "ownership_pct": 0.5178191984013683
+        "ownership_pct": 0.5178334426033046
       },
       {
         "date": "2025-08-06",
-        "ownership_pct": 0.690278395127111
+        "ownership_pct": 0.6902973833470973
       },
       {
         "date": "2025-08-11",
-        "ownership_pct": 0.9530236890250895
+        "ownership_pct": 0.9530499048585664
       },
       {
         "date": "2025-08-17",
-        "ownership_pct": 1.2621651880551752
+        "ownership_pct": 1.2621999077717696
       },
       {
         "date": "2025-08-25",
-        "ownership_pct": 1.4200223147204112
+        "ownership_pct": 1.420061376780426
       },
       {
         "date": "2025-08-28",
-        "ownership_pct": 1.4853032783006082
+        "ownership_pct": 1.485344136113331
       },
       {
         "date": "2025-09-02",
-        "ownership_pct": 1.5468500425070701
+        "ownership_pct": 1.5468925933519182
       },
       {
         "date": "2025-09-08",
-        "ownership_pct": 1.7146023418194138
+        "ownership_pct": 1.7146495072046926
       },
       {
         "date": "2025-09-15",
-        "ownership_pct": 1.7822785950356141
+        "ownership_pct": 1.7823276220633737
       },
       {
         "date": "2025-09-22",
-        "ownership_pct": 2.0017810813644843
+        "ownership_pct": 2.001836146479959
       },
       {
         "date": "2025-09-29",
-        "ownership_pct": 2.196358801826909
+        "ownership_pct": 2.196419219398128
       },
       {
         "date": "2025-10-06",
-        "ownership_pct": 2.344874216058406
+        "ownership_pct": 2.3449387190006528
       },
       {
         "date": "2025-10-13",
-        "ownership_pct": 2.512268589005218
+        "ownership_pct": 2.5123376966420348
       },
       {
         "date": "2025-10-20",
-        "ownership_pct": 2.681145207942625
+        "ownership_pct": 2.6812189610477244
       },
       {
         "date": "2025-10-27",
-        "ownership_pct": 2.744987837794665
+        "ownership_pct": 2.7450633470867007
       },
       {
         "date": "2025-11-03",
-        "ownership_pct": 2.813220036823995
+        "ownership_pct": 2.8132974230515027
       },
       {
         "date": "2025-11-10",
-        "ownership_pct": 2.9046080832234478
+        "ownership_pct": 2.904687983358883
       },
       {
         "date": "2025-11-17",
-        "ownership_pct": 2.949478130102522
+        "ownership_pct": 2.94955926452593
       },
       {
         "date": "2025-11-24",
-        "ownership_pct": 3.0073279789316585
+        "ownership_pct": 3.007410704692219
       },
       {
         "date": "2025-12-01",
-        "ownership_pct": 3.087528340808471
+        "ownership_pct": 3.0876132727254526
       },
       {
         "date": "2025-12-08",
-        "ownership_pct": 3.2022404268285163
+        "ownership_pct": 3.202328514252523
+      },
+      {
+        "date": "2025-12-15",
+        "ownership_pct": 3.2870558268469
+      },
+      {
+        "date": "2025-12-22",
+        "ownership_pct": 3.368960248996337
+      },
+      {
+        "date": "2025-12-29",
+        "ownership_pct": 3.405800336420268
+      },
+      {
+        "date": "2026-1-05",
+        "ownership_pct": 3.433123629112596
+      },
+      {
+        "date": "2026-1-12",
+        "ownership_pct": 3.45322937009789
+      },
+      {
+        "date": "2026-1-19",
+        "ownership_pct": 3.48245088468906
+      },
+      {
+        "date": "2026-1-26",
+        "ownership_pct": 3.5158433504102047
+      },
+      {
+        "date": "2026-2-02",
+        "ownership_pct": 3.550467050414056
+      },
+      {
+        "date": "2026-2-09",
+        "ownership_pct": 3.584117197065162
+      },
+      {
+        "date": "2026-2-17",
+        "ownership_pct": 3.62203109312327
+      },
+      {
+        "date": "2026-2-23",
+        "ownership_pct": 3.664421677491917
+      },
+      {
+        "date": "2026-3-02",
+        "ownership_pct": 3.70661837974606
+      },
+      {
+        "date": "2026-3-09",
+        "ownership_pct": 3.7571404131392554
       }
     ],
     "weighted_avg_cost_curve": [
@@ -218,131 +270,257 @@
       {
         "date": "2025-12-08",
         "weighted_avg_cost": 3964.346795341002
+      },
+      {
+        "date": "2025-12-15",
+        "weighted_avg_cost": 3942.4539905878437
+      },
+      {
+        "date": "2025-12-22",
+        "weighted_avg_cost": 3919.055306092234
+      },
+      {
+        "date": "2025-12-29",
+        "weighted_avg_cost": 3908.6813329197607
+      },
+      {
+        "date": "2026-1-05",
+        "weighted_avg_cost": 3901.8473228684334
+      },
+      {
+        "date": "2026-1-12",
+        "weighted_avg_cost": 3897.5862874325057
+      },
+      {
+        "date": "2026-1-19",
+        "weighted_avg_cost": 3892.6091201693253
+      },
+      {
+        "date": "2026-1-26",
+        "weighted_avg_cost": 3883.9414220597087
+      },
+      {
+        "date": "2026-2-02",
+        "weighted_avg_cost": 3879.0646804784737
+      },
+      {
+        "date": "2026-2-09",
+        "weighted_avg_cost": 3863.1126977378894
+      },
+      {
+        "date": "2026-2-17",
+        "weighted_avg_cost": 3843.558080776887
+      },
+      {
+        "date": "2026-2-23",
+        "weighted_avg_cost": 3821.132547607096
+      },
+      {
+        "date": "2026-3-02",
+        "weighted_avg_cost": 3799.96790249795
+      },
+      {
+        "date": "2026-3-09",
+        "weighted_avg_cost": 3775.965550160942
       }
     ],
     "nav_diluted_history": [
       {
         "date": "2025-07-13",
-        "nav_diluted": 1.4903998196764805
+        "nav_diluted": 0.9798342346529915
       },
       {
         "date": "2025-07-20",
-        "nav_diluted": 2.7471020823702856
+        "nav_diluted": 1.8060285776049099
       },
       {
         "date": "2025-07-27",
-        "nav_diluted": 5.178477650584134
+        "nav_diluted": 3.404488928701793
       },
       {
         "date": "2025-08-03",
-        "nav_diluted": 5.710258826167162
+        "nav_diluted": 3.7540980700215827
       },
       {
         "date": "2025-08-06",
-        "nav_diluted": 7.612055154494002
+        "nav_diluted": 5.004396899389729
       },
       {
         "date": "2025-08-11",
-        "nav_diluted": 10.509482747265258
+        "nav_diluted": 6.909254046005421
       },
       {
         "date": "2025-08-17",
-        "nav_diluted": 13.91854517450034
+        "nav_diluted": 9.150475515690808
       },
       {
         "date": "2025-08-25",
-        "nav_diluted": 15.65931696047584
+        "nav_diluted": 10.294911906582932
       },
       {
         "date": "2025-08-28",
-        "nav_diluted": 16.37920374647248
+        "nav_diluted": 10.768187405332611
       },
       {
         "date": "2025-09-02",
-        "nav_diluted": 17.05791159395473
+        "nav_diluted": 11.214390615713507
       },
       {
         "date": "2025-09-08",
-        "nav_diluted": 18.907802541828897
+        "nav_diluted": 12.430565267086743
       },
       {
         "date": "2025-09-15",
-        "nav_diluted": 19.65410341951515
+        "nav_diluted": 12.921206194208766
       },
       {
         "date": "2025-09-22",
-        "nav_diluted": 22.07467031582695
+        "nav_diluted": 14.512560595196868
       },
       {
         "date": "2025-09-29",
-        "nav_diluted": 24.22037898996697
+        "nav_diluted": 15.923214829555706
       },
       {
         "date": "2025-10-06",
-        "nav_diluted": 25.858134904686715
+        "nav_diluted": 16.99992544912366
       },
       {
         "date": "2025-10-13",
-        "nav_diluted": 27.70407881430079
+        "nav_diluted": 18.21350519732953
       },
       {
         "date": "2025-10-20",
-        "nav_diluted": 29.566368213376204
+        "nav_diluted": 19.437830968142848
       },
       {
         "date": "2025-10-27",
-        "nav_diluted": 30.270393753031385
+        "nav_diluted": 19.90067880046071
       },
       {
         "date": "2025-11-03",
-        "nav_diluted": 31.02282533134846
+        "nav_diluted": 20.39535023690056
       },
       {
         "date": "2025-11-10",
-        "nav_diluted": 32.030608357102864
+        "nav_diluted": 21.057897492140224
       },
       {
         "date": "2025-11-17",
-        "nav_diluted": 32.52541345898549
+        "nav_diluted": 21.383197436426848
       },
       {
         "date": "2025-11-24",
-        "nav_diluted": 33.16335351777212
+        "nav_diluted": 21.80259866085223
       },
       {
         "date": "2025-12-01",
-        "nav_diluted": 34.04776418791087
+        "nav_diluted": 22.384037171950848
       },
       {
         "date": "2025-12-08",
-        "nav_diluted": 35.31275340361833
+        "nav_diluted": 23.215679610210174
+      },
+      {
+        "date": "2025-12-15",
+        "nav_diluted": 23.829920820838844
+      },
+      {
+        "date": "2025-12-22",
+        "nav_diluted": 24.423697135423037
+      },
+      {
+        "date": "2025-12-29",
+        "nav_diluted": 24.690773939891912
+      },
+      {
+        "date": "2026-01-05",
+        "nav_diluted": 24.888857555054404
+      },
+      {
+        "date": "2026-01-12",
+        "nav_diluted": 25.034616629728667
+      },
+      {
+        "date": "2026-01-19",
+        "nav_diluted": 25.246461641086608
+      },
+      {
+        "date": "2026-01-26",
+        "nav_diluted": 25.488544482408713
+      },
+      {
+        "date": "2026-02-02",
+        "nav_diluted": 25.739553310088922
+      },
+      {
+        "date": "2026-02-09",
+        "nav_diluted": 25.983504241422715
+      },
+      {
+        "date": "2026-02-17",
+        "nav_diluted": 26.25836575539368
+      },
+      {
+        "date": "2026-02-23",
+        "nav_diluted": 26.565681579117598
+      },
+      {
+        "date": "2026-03-02",
+        "nav_diluted": 26.871591830292523
+      },
+      {
+        "date": "2026-03-09",
+        "nav_diluted": 27.237857606989866
       }
     ]
   },
+  "BMNR_ETH_STAKING": {
+    "staked_eth": 3040483,
+    "staking_rate_pct": 2.91,
+    "eth_yield_annual": 88478.0553,
+    "usd_yield_annual": 192843667.41568345,
+    "eth_yield_per_basic_share": 0.0002926067970653248,
+    "eth_yield_per_diluted_share": 0.0001699194883488843,
+    "usd_yield_per_basic_share": 0.6377555165007551,
+    "usd_yield_per_diluted_share": 0.37035055966691593
+  },
+  "BMNR_DIVIDEND": {
+    "quarterly_dividend_per_share": 0.01,
+    "annual_dividend_per_share": 0.04,
+    "annual_dividend_total_basic": 12095146.96,
+    "annual_dividend_total_diluted": 20828230.16,
+    "dividend_yield_pct": 0.1936295866008326
+  },
+  "BMNR_TOTAL_YIELD": {
+    "staking_plus_dividend_usd_per_basic_share": 0.6777555165007552,
+    "staking_plus_dividend_yield_pct": 3.2808380119118747
+  },
   "BMNR_OCTO": {
     "holdings": 13698630,
-    "price": 2.859999895095825,
-    "value": 39178080.362956524
+    "price": 0.8201000094413757,
+    "value": 11234246.592333913
   },
   "BMNR_NAV": {
-    "eth_value": 12813388259.370117,
-    "btc_value": 17675904.0,
-    "cash_value": 1000000000.0,
-    "octo_value": 39178080.362956524,
-    "total_value": 13870242243.733074,
-    "nav_per_basic_share_total": 45.87043808431105,
-    "nav_per_diluted_share_total": 32.37799795645662
+    "eth_value": 9883376718.96289,
+    "btc_value": 14141043.515625,
+    "cash_value": 1200000000.0,
+    "octo_value": 11234246.592333913,
+    "beast_value": 200000000.0,
+    "total_value": 11108752009.07085,
+    "nav_per_basic_share_total": 36.73788188207628,
+    "nav_per_diluted_share_total": 21.33402967748048
   },
   "derived": {
-    "eth_per_basic_share": 0.012781824025063355,
-    "eth_per_diluted_share": 0.009022147802526383,
-    "eth_value_per_basic_share": 42.375304084342,
-    "eth_value_per_diluted_share": 29.91093101237078,
-    "": 0.011736571183662286,
-    "nav_basic": 45.87043808431105,
-    "nav_diluted": 32.37799795645662,
-    "ytd_yield_pct": 340.75,
-    "qtd_yield_pct": 31.62
+    "eth_per_basic_share": 0.01499630889974734,
+    "eth_per_diluted_share": 0.008708496046310254,
+    "eth_value_per_basic_share": 32.68542912838784,
+    "eth_value_per_diluted_share": 18.98073267491277,
+    "": 0.009478038303677022,
+    "nav_basic": 36.73788188207628,
+    "nav_diluted": 21.33402967748048,
+    "ytd_yield_pct": -4.36,
+    "qtd_yield_pct": -4.36
   },
-  "timestamp_iso": "2025-12-10T12:26:41.557965+00:00"
+  "timestamp_iso": "2026-03-16T03:06:41.885397+00:00"
 }
